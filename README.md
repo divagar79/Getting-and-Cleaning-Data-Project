@@ -2,7 +2,7 @@
 
 This repository contains R code and documentation files for the Data Science's course project for "Getting and Cleaning data".
 
-The dataset being used is: Human Activity Recognition Using Smartphones
+The dataset being used is: Human Activity Recognition Using Smartphones.
 
 ##Files
 
